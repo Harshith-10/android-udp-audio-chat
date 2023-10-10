@@ -1,6 +1,6 @@
-#Android UDP Audio Chat Application
+# Android UDP Audio Chat Application
 
-###What is it?
+### What is it?
 
 A simple UDP audio chat application for Android, developed for my final year university project.
 
